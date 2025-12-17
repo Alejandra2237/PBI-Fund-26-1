@@ -3,7 +3,7 @@
 body{
     font-family: 'Tilt Neon', cursive;
     background-color: #f6f9f6;
-    color: #821737;
+    color: ##000000;
 }
 
 /* ======= Barra de navegación =======*/
@@ -14,7 +14,7 @@ body{
 #menu li > a {
     font-size: 18px;
     font-weight: bold;
-    color: #f6f9f6;
+    color: ##000000;
 }
 /* =======Portada=======*/
 .hero {

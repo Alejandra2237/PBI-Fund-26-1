@@ -45,6 +45,7 @@ body{
   }
   
   .hero h1 {
+      font-family: 'Open Sauce', cursive;
     font-size: 46px;
     margin: -20px 0 20px;
   }

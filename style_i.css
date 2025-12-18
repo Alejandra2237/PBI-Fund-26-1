@@ -10,7 +10,7 @@ html, body{
     align-items: center;
 }
 .login_div, .ia_div{
-    color: #821737;
+    color: #004aad;
 	background: rgba(255, 255, 255, 0.8);
 	float: none;
     margin-top: 50px;
@@ -36,7 +36,7 @@ button{
     transition: 2s;
     }
   button span{
-    background-color: #821737;
+    background-color: #009245;
     padding: 16px 24px;
     border-radius: 6px;
     transition: .3s;

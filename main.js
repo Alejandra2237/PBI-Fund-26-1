@@ -11,7 +11,7 @@ function muestra_oculta(id){
 }
 
 //Cambio de página
-let codigo = "User123";
+let codigo = "UserWM261";
 
 function code(){
     respuesta =document.getElementById("answer").value;
